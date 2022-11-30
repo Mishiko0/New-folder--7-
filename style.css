@@ -1,0 +1,41 @@
+body {
+text-align: center;
+background: url(/310756.jpg) no-repeat #66fcf1 center;
+}
+h1{
+	color: aqua;
+}
+h3, h4 {
+color: #45A29E;
+text-align: :left;
+}
+p{
+	color: #66fcf1;
+	text-align: center;
+}
+h1{
+	font-size: 74px;
+}
+h3{
+font-size: 24px;
+}
+a {
+	font-size: 20px;
+	text-decoration: solid;
+	color: rgb(0, 0, 0);
+}
+a:hover {
+	color: #3d7296e5;
+	text-decoration: none;
+	font-size: 3em;
+}
+a:visited{
+color: #0b0c10;
+}
+p:first-letter{
+	font-size: 8em;
+}
+p:first-line{
+color: #0b0c10;
+}
+
